@@ -1,0 +1,124 @@
+.cart{
+    align-content: center;
+    color: white;
+    margin-top: 1vw;
+    margin-bottom: 10vw;
+    position: relative;
+    animation: fadeIn 1s ease-in-out;
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.cont-cart{
+    margin-right: 10vw;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: fixed;
+    font-weight: 800;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+}
+.productos{
+    text-align: center;
+    margin: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.total{
+    font-size: x-large;
+    text-align: center;
+    margin: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: forestgreen;
+}
+.cont-botones {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.boton-comprar{
+    margin: 10px 20px;
+    padding: 20px;
+    width: fit-content;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(0, 116, 15);
+    color: rgb(255, 255, 255);
+    transition: all 0.5s ease;
+}
+.boton-retirar{
+    margin: 10px 20px;
+    padding: 10px;
+    width: fit-content;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(0, 140, 19);
+    color: rgb(255, 255, 255);
+    transition: all 0.5s ease;
+}
+.boton-comprar:hover{
+    color: black;
+    background-color: white;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+}
+.boton-retirar:hover{
+    color: black;
+    background-color: white;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+}
+.productos-añadidos{
+    display: none;
+}
+.loading-screen {
+    box-sizing: content-box;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    color: rgb(255, 255, 255);
+    position: fixed;
+    padding: 50px;
+    margin-top: 10vw;
+    margin-left: 20vw;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+    background-color: rgba(34, 163, 255, 0.926);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.744);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+  }
+  .resaltado-loadig{
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 10px rgb(26, 91, 255);
+    font-weight: bolder;
+  }
+
+@media (max-width: 850px) {
+    .cont-cart{
+        right: -50px;
+    }
+    .loading-screen {
+        margin-top: 30vw;
+        margin-left: 15vw;
+    }
+}

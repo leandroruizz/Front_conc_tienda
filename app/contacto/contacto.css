@@ -1,0 +1,36 @@
+.contacto {
+    margin-top: 120px;
+    margin-bottom: 50px;
+    animation: fadeIn 2s ease-in-out;
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.titulo-contacto {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(193, 255, 118);
+    text-shadow: 0 0 10px greenyellow;
+    text-decoration:underline rgb(183, 255, 131);
+}
+
+.texto-contacto {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+    color: #818181;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.imgform{
+    margin-left: 39%;
+    width: 20vw;
+    
+}

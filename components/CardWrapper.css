@@ -1,0 +1,77 @@
+.menu {
+    margin: 10px;
+    align-content: start;
+    width: fit-content;
+  }
+  .categoria-titulo{
+    padding-bottom: 5px;
+    box-sizing: content-box;
+    margin: 10px;
+    background: greenyellow;
+    border: none;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-weight: 800;
+    cursor: pointer;
+    transition: all 0.5s ease;
+  }
+  .categoria-titulo:hover{
+    color: black;
+    background-color: white;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+}
+  .categoria {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    background: black;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    color: greenyellow;
+    font-size: 2vh;
+    font-weight: 800;
+    cursor: pointer;
+    transition: all 0.5s ease;
+  }
+  .filtro {
+    padding-top: 3px;
+  }
+  .categoria:hover{
+    border: 2px solid rgb(255, 255, 255);
+    color: black;
+    background-color: white;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+}
+  .categoria-cont {
+    top: 80%;
+    left: 0;
+    display: none;
+    background: none;
+    z-index: 1;
+    animation: fadeIn 0.5s ease-in-out;
+  }
+  @keyframes fadeIn {
+      0% {
+          opacity: 0;
+      }
+      100% {
+          opacity: 1;
+      }
+  }
+  .menu:hover .categoria-cont {
+    display: flex;
+
+  }
+  
+  .grilla {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+  }
+
+@media (max-width: 850px) {
+  .menu:hover .categoria-cont {
+    flex-direction: column;
+  }
+}

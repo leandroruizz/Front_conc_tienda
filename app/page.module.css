@@ -1,0 +1,194 @@
+
+.home{
+  margin-top: 10vw;
+}
+.tituloproducto{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-size: 2em;
+  color: rgb(193, 255, 118);
+  text-shadow: 0 0 20px greenyellow;
+  animation: slideIn 2s ease-in-out;
+  animation-fill-mode: forwards;
+}
+@keyframes slideIn {
+  0% {
+      transform: translateY(100px);
+      opacity: 0;
+  }
+  100% {
+      transform: translateY(0);
+      opacity: 1;
+  }
+}
+.contproducto{
+  display: flex;
+  justify-content: center;
+  animation: scaleUp 2s ease-in-out;
+  animation-fill-mode: forwards;
+}
+@keyframes scaleUp {
+  0% {
+      transform: scale(0);
+  }
+  100% {
+      transform: scale(1);
+  }
+}
+.producto{
+  border: 2px solid greenyellow;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+  width: 17vw;
+  height: 17vw;
+  transition: all 0.5s;
+}
+.contasesoramiento{
+  width: 90vw;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+}
+.tituloasesoramiento{
+  font-size: 2em;
+  text-align: left;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(193, 255, 118);
+  text-shadow: 0 0 10px greenyellow;
+  margin-left: 10vw ;
+  animation: slideIn 2s ease-in-out;
+  animation-fill-mode: forwards;
+}
+@keyframes slideIn {
+  0% {
+      transform: translateY(100px);
+      opacity: 0;
+  }
+  100% {
+      transform: translateY(0);
+      opacity: 1;
+  }
+}
+.asesoramiento{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.textoasesoramiento{
+  width: 50vw;
+  font-size: 1.5em;
+  text-align: left;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  text-align: left;
+  color: white;
+  margin: 20px;
+  animation: slideIn 3s ease-in-out;
+  animation-fill-mode: forwards;
+}
+@keyframes slideIn {
+  0% {
+      transform: translateY(100px);
+      opacity: 0;
+  }
+  100% {
+      transform: translateY(0);
+      opacity: 1;
+  }
+}
+.asesoramientoimg{
+  width: 17vw;
+  height: 17vw;
+  animation: scaleUp 2s ease-in-out;
+  animation-fill-mode: forwards;
+}
+@keyframes scaleUp {
+  0% {
+      transform: scale(0);
+  }
+  100% {
+      transform: scale(1);
+  }
+}
+.quienessomos{
+  background-color: greenyellow;
+  box-shadow: 0 0 10px greenyellow;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+  animation: slideIn 2s ease-in-out;
+  animation-fill-mode: forwards;
+}
+@keyframes slideIn {
+  0% {
+      transform: translateY(100px);
+      opacity: 0;
+  }
+  100% {
+      transform: translateY(0);
+      opacity: 1;
+  }
+}
+.titulonosotros{
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #000000;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.768);
+  }
+.greenallday{
+  background-color: none;
+  font-weight: 800;
+  color: purple;
+  font-size: xx-large;
+}
+.textonosotros{
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  background-color: rgb(110, 173, 0);
+  border-radius: 3px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.792);
+  margin: 20px 20px;
+  animation: slideIn 3s ease-in-out;
+  animation-fill-mode: forwards;
+}
+@keyframes slideIn {
+  0% {
+      transform: translateY(100px);
+      opacity: 0;
+  }
+  100% {
+      transform: translateY(0);
+      opacity: 1;
+  }
+}
+.producto:hover{
+  background-color: greenyellow;
+  box-shadow: 0 0 10px greenyellow;
+}
+
+@media (max-width: 850px) {
+  .home{
+    margin-top: 25vw;
+  }
+  .producto{
+    width: 25vw;
+    height: 25vw;
+  }
+  .textoasesoramiento{
+    width: 30vw;
+  }
+  .textoasesoramiento{
+    width: 50vw;
+  }
+  .asesoramientoimg{
+    width: 22vw;
+    height: 22vw;
+  }
+  .greenallday{
+    font-size: x-large;
+  }
+}

@@ -1,0 +1,14 @@
+.shop{
+  margin-top: 15vw;
+  margin-bottom: 10vw;
+}
+.shop-cont{
+  display: flex;
+  width: 70vw;
+}
+
+@media (max-width: 850px) {
+    .shop{
+      margin-top: 25vw;
+    }
+}

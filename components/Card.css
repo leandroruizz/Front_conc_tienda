@@ -1,0 +1,134 @@
+.card {
+    width: 20vw;
+    margin: 0.5em;
+    border-radius: 8px;
+    border: 2px solid greenyellow;
+    text-align: left;
+    transition: all 0.5s ease;
+    animation: slideIn 0.5s ease-in-out;
+    animation-fill-mode: forwards;
+}
+@keyframes slideIn {
+    0% {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+.card:hover{
+    box-shadow: 0 0 10px greenyellow;
+}
+.card img {
+    border-radius: 6px 6px 0 0;
+    width: 20vw;
+}
+.card-info {
+    margin: 5px;
+}
+.titulo{
+    font-size: 1.7em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: greenyellow;
+    width: fit-content;
+}
+.descripcion {
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-bottom: 5px;
+    height: 12vw;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.descripcion::-webkit-scrollbar {
+    width: 5px;     
+    height: 8px;    
+}
+.descripcion::-webkit-scrollbar-thumb {
+    background: #23d30093;
+    border-radius: 4px;
+}
+.descripcion::-webkit-scrollbar-thumb:hover {
+    background: #40e20081;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+.descripcion::-webkit-scrollbar-thumb:active {
+    background-color: #13ff0b;
+}
+.precio {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: greenyellow;
+    margin-bottom: 8px;
+}
+.boton-añadir{
+    padding: 10px;
+    margin: 3px;
+    border: none;
+    align-items: center;
+    background-color: greenyellow;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 1000;
+    font-size: small;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+.boton-añadir:hover{
+    color: black;
+    background-color: white;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+}
+.boton-quitar{
+    padding: 10px;
+    margin: 3px;
+    border: none;
+    align-items: center;
+    background-color: rgb(109, 109, 109);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 1000;
+    font-size: small;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+.boton-quitar:hover{
+    background-color: white;
+    color: red;
+    box-shadow: 0 0 10px rgb(255, 47, 47);
+}
+.card-quantity{
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    background-color: rgb(102, 255, 47);
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 2px 6px;
+    margin: 10px;
+    font-size: medium;
+    width: fit-content;
+    position: absolute;
+    z-index: 0.5;
+}
+
+@media (max-width: 850px) {
+    .card {
+        width: 40vw;
+    }
+    .card img {
+        width: 40vw;
+    }
+    .descripcion {
+        height: 30vw;
+    }
+    .titulo{
+        font-size: large;
+    }
+    
+}

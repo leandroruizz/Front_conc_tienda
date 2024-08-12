@@ -1,0 +1,38 @@
+.contredes{
+	display: flex;
+	flex-direction: column;
+    animation: fadeIn 2s ease-in-out;
+	z-index: 99;
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.instagram {
+	padding: 10px 10px; 
+	position: fixed;
+	bottom: 120px;
+	right: 40px;
+	z-index: 99;
+}
+.whatsapp {
+	padding: 10px 10px; 
+	position: fixed;
+	bottom: 40px;
+	right: 40px;
+	z-index: 99;
+}
+@media (max-width: 850px) {
+	.instagram{
+        bottom: 90px;
+		right: 20px;
+    }
+    .whatsapp{
+        bottom: 20px;
+		right: 20px;
+    }
+}

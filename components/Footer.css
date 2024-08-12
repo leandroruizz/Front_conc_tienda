@@ -1,0 +1,16 @@
+
+.footer {
+    background-image: url(/images/navgreenalldayY.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 3vw;
+}
+.footer-text{
+    text-shadow: 0 0 10px black;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

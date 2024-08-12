@@ -1,0 +1,101 @@
+.nav{
+    display: flex;
+    background-image: url(/images/navgreenallday.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3vw;
+    position: fixed; 
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 98;
+    animation: fadeIn 2s ease-in-out;
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.navlogo{
+    left: 0;
+    
+}
+.nav-lista {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.nav-item {
+    width: fit-content;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    transition: all 0.5s ease; 
+    border-radius: 5px;
+}
+
+.nav-item:hover{
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+}
+.nav-text{
+    font-size: 1.2em;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.993);
+}
+.nav-text:hover{
+    color: black;
+    text-shadow: none;
+}
+.checkbtn{
+    line-height: 80px;
+    cursor: pointer;
+    display: none;
+    margin: 10px
+}
+#check{
+    display: none;
+}
+.numero{
+    text-align: center;
+    padding: 10px;
+}
+
+@media (max-width: 850px) {
+    .nav{
+        padding: 10px;
+    }
+    .navlogo{
+        margin-top: 5px;
+        height: 70px;
+    }
+    .checkbtn{
+        display: block;
+    }
+    .nav-lista{
+        background-image: url('/images/backround.jpg');
+        background-size: contain;
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        left: -1000px;
+        width: 35vw;
+        top: 70px;
+        transition: all 0.5s;
+        border-radius: 20px;
+        border: 2px solid rgb(255, 255, 255)
+    }
+    #check:checked ~.nav-lista{
+        left: -40px;
+    }
+}
+

@@ -1,0 +1,873 @@
+[
+    {
+        "id": 1,
+        "imagen": "https://miscellaneousbycaff.com.ar/wp-content/uploads/2019/10/pic_20190426_181818-32469902a82d4b983e15563136134781-1024-1024.jpg",
+        "titulo": "Grinder Darth vader",
+        "descripcion": "Picador 3 Partes. Excelente calidad.",
+        "precio": 16000,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 2,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a4f5f88a6e91d1a217881714e6ee5d4df010a9e69bdb73420f093352b3cf8d6646621.png",
+        "titulo": "Picador Lion Rolling Circus",
+        "descripcion": "picador de metal 2 piezas",
+        "precio": 8600,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 3,
+        "imagen": "catalogo/",
+        "titulo": "Picador Lion Rolling",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 4,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_636501-MLA50222638634_062022-O.webp",
+        "titulo": "picador trainer",
+        "descripcion": "Picador acrílico3 partes con deposito",
+        "precio": 3200,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 5,
+        "imagen": "https://elalquimistagrow.com/wp-content/uploads/2019/10/pica-mediano.jpg",
+        "titulo": "picador zeus 3 partes",
+        "descripcion": "",
+        "precio": 3200,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 6,
+        "imagen": "https://tomaco.com.ar/wp-content/uploads/picador-zeus-hemp-2partes_Tomaco.jpg",
+        "titulo": "picador zeus 2 parte",
+        "descripcion": "Triturador de tabaco 2 partes Matetial 100% biodegradable",
+        "precio": 2500,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 7,
+        "imagen": "https://www.fuzioncompany.com/img/p/1/4/4/0/7/14407.jpg",
+        "titulo": "picador generico rosa",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 8,
+        "imagen": "catalogo/",
+        "titulo": "picador generico azul",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 9,
+        "imagen": "catalogo/",
+        "titulo": "picador generico rojo",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 10,
+        "imagen": "catalogo/",
+        "titulo": "picador generico verde",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 11,
+        "imagen": "https://conexdistribuidora.store/3995-large_default/cogonauts-bakumega.jpg",
+        "titulo": "Grinder Cogonaut (Baku)",
+        "descripcion": "picador coleccionable",
+        "precio": 18000,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 12,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/299/244/products/sauver22-1a8279deb265a9828e16968297445600-1024-1024.png",
+        "titulo": "Sauver",
+        "descripcion": "Capsula para transportar cigarrillos",
+        "precio": 400,
+        "cantidad": 13,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 13,
+        "imagen": "https://tomaco.com.ar/wp-content/uploads/porta-grande_Tomaco.jpg",
+        "titulo": " sauver xl",
+        "descripcion": "capsula para transportar materia vegetal",
+        "precio": 500,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 14,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/2805-150x150.jpg",
+        "titulo": "GUARDA FLOR VIDRIO BLUNT REY 55 MM",
+        "descripcion": "Frasco de guardado",
+        "precio": 3000,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 15,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/2935.jpg",
+        "titulo": "ESTABILIZADOR DE HUMEDAD 15GR KEEP IT FRESH",
+        "descripcion": "Boveda estabilizadora de Humedad. 15 grs 62%",
+        "precio": 4700,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 152,
+        "imagen": "https://sanmarigrowshop.com.ar/user/images/PRODUCTOS/LION%20ROLLING%20CIRCUS/63.jpg",
+        "titulo": "LION TRAY MINI GOLD EDITION",
+        "descripcion": "Bandeja Lion Rolling Circus Mini Tray Gold Edition Limitada",
+        "precio": 7800,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 16,
+        "imagen": "catalogo/cenicerorawclasico.jpeg",
+        "titulo": "cenicero Raw",
+        "descripcion": "Cenicero de metal Medida: 14 cm.",
+        "precio": 2500,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 17,
+        "imagen": "catalogo/",
+        "titulo": "blunt juicy",
+        "descripcion": "blunt saborizados",
+        "precio": 1200,
+        "cantidad": 7,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 18,
+        "imagen": "blunt wrap",
+        "titulo": "blunt terpenos saborisado",
+        "descripcion": "Papel saborizado combustión Lenta medidas: 40mm x 110mm el paquete contiene 2 papeles (wraps)",
+        "precio": 1100,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 19,
+        "imagen": "https://i0.wp.com/chilavertgrow.com/wp-content/uploads/2022/12/7977.jpg?fit=600%2C600&ssl=1",
+        "titulo": "MASCARA BONG OJOS (MULTICOLOR)",
+        "descripcion": "Máscara de silicona. Bong de acrílico. Bong medida: 25 cm.",
+        "precio": 35000,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 20,
+        "imagen": "https://tabaqueriahorus.com/wp-content/uploads/2022/05/gla009.png",
+        "titulo": "bong de vidrio tornosolado",
+        "descripcion": "Bong de vidrio. Modelo: Tornasolado. Medida: 15 cm",
+        "precio": 12000,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 21,
+        "imagen": "https://parainfernalia.com.ar/wp-content/uploads/2021/05/bong-calavera-online-2.jpg",
+        "titulo": "BONG DE VIDRIO CALAVERA COLOR DK 6540",
+        "descripcion": "Medida: 14 cm.",
+        "precio": 26000,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 22,
+        "imagen": "https://www.magiclair.com.ar/cdn/shop/products/fumanyi-mazo_1024x1024_c4af4332-939f-438b-b65d-d84b8f56711e_1024x.jpg?v=1643392892",
+        "titulo": "fumanyi cartas",
+        "descripcion": "¿Qué es? Fumanyi es el primer fuming game para jugar con amigos. Cómo se juega? Es muy simple: cada carta tiene una consigna para que fume uno, todos o nadie. Por ejemplo imitar a Shakira, rezarle a San Cogollito o hacer un Kame-Kame-Ha de humo. ¡Gana el que después de varias rondas fuma la última pitada!",
+        "precio": 8000,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 23,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/3007-600x600.jpg",
+        "titulo": "PIPA DE VIDRIO DK 8319-2 RICK AND MORTY",
+        "descripcion": "https://bcdistribuidora.com.ar/wp-content/uploads/3007-600x600.jpg",
+        "precio": 9000,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 24,
+        "imagen": "https://parainfernalia.com.ar/wp-content/uploads/2021/11/Pipa-Pyrex-Calavera-Tornasolada-parainfernalia.png",
+        "titulo": "pipa D&K calavera tornasolado",
+        "descripcion": "pipa de metal con rejilla",
+        "precio": 7000,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 25,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/1261-600x600.jpg",
+        "titulo": "pipa chica aluminio",
+        "descripcion": "Pipa metálica Atomic 8.3 cm incluye repuesto rejilla",
+        "precio": 3600,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 26,
+        "imagen": "catalogo/",
+        "titulo": "turbina bala tornasolada",
+        "descripcion": "Turbina metálica Tornasolada Incluye repuesto rejilla 8.5 x 1.9 cm.",
+        "precio": 7500,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 27,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/741/619/products/d_nq_np_759208-mla48137165198_112021-o1-d61fccc60b1e14767c16570507541984-640-0.jpg",
+        "titulo": "cliper lion rollin grande",
+        "descripcion": "Encendedores coleccionables con la imagen de nuestrxs amigxs del circo. Seis diseños para coleccionar, recargables y duraderos.",
+        "precio": 1400,
+        "cantidad": 4,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 28,
+        "imagen": "https://parainfernalia.com.ar/wp-content/uploads/2023/05/FILTROS-ROK-MINI-TIPS-BIO-PINK-PI-SMOKESHOP.png",
+        "titulo": "RÖK Mini Tips Bio PINK",
+        "descripcion": "filtros rosas",
+        "precio": 500,
+        "cantidad": 4,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 29,
+        "imagen": "https://acdn.mitiendanube.com/stores/002/081/939/products/lion-unbleached-marrones1-e838877551952a3fe516655063406602-480-0.png",
+        "titulo": "sedas organicas lion rollin",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 3,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 30,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/2992-600x600.jpg",
+        "titulo": "sedas zeus cañamo",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 31,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_654955-MLA69944853827_062023-O.webp",
+        "titulo": "sedas zeus rosas",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 32,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_663239-MLA54616659444_032023-O.webp ",
+        "titulo": "sedas del duko",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 33,
+        "imagen": "catalogo/",
+        "titulo": "sedas marrones lion rollin",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 34,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/372/923/products/nktse61551-fbad65303e60281ba016027111347664-640-0.jpg",
+        "titulo": "sedas Raw",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 35,
+        "imagen": "catalogo/",
+        "titulo": "LION ROLLING CIRCUS PRE ROLLED FILTTERS BOLSA55",
+        "descripcion": "No te preocupes, lo hicimos por vos.Filtros unbleached pre-armados para tus joints. Packaging hermético y reutilizable con la cara de nuestrxs amigxs.",
+        "precio": 3600,
+        "cantidad": 2,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 95,
+        "imagen": "catalogo/",
+        "titulo": "Ziplock con diseños blunt rey",
+        "descripcion": "bolsas ziplock con diseños coleccionables",
+        "precio": 600,
+        "cantidad": 7,
+        "categoria": "Parafernalia"
+    },
+    {
+        "id": 36,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/942a076f73a96f82be9afd0e12383bb7e9402814e7dfe91a7c76f7ba043d379a99401.jpeg",
+        "titulo": "timer zurich analogico",
+        "descripcion": "Tensión de entrada : 220-240V – 50hz –Max.2200Consumo: 220-240V – 10(2)A – 0-2300VA Frecuencia: 50 Hz IP 20 Temperatura mínima: -10ºC Temperatura máxima: 40ºC Funcionamiento mínimo: 15 min. Funcionamiento máximo : 24hs. Diseño compacto y elegante para una sencilla operación. Mínimo recuento descendente : 1 minuto Certificación Bureau Veritas Norma IEC 60730 – Marca S Presentación en blister",
+        "precio": 11000,
+        "cantidad": 3,
+        "categoria": "Tecnologia y Herramientas"
+    },
+    {
+        "id": 37,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_807379-MLA46022591945_052021-O.webp",
+        "titulo": "turbinas agroled 120x120x38 ruleman",
+        "descripcion": "•Material: Marco Metálico – hélice plástica •Dimensiones: 120 x 120 x 38mm •Distancia entre orificios: 105mm •Diámetro de los orificios: 4.5mm •No incluye tornillos ESPECIFICACIONES: •Voltaje: 220V 50HZ •Potencia: 18W •Tipo de transmisión: Ruleman ",
+        "precio": 10600,
+        "cantidad": 2,
+        "categoria": "Tecnologia y Herramientas"
+    },
+    {
+        "id": 38,
+        "imagen": "https://m.media-amazon.com/images/I/61l+2Y-gqgL._AC_UF1000,1000_QL80_.jpg",
+        "titulo": "medidor de electroconductividad",
+        "descripcion": "Medidor de concentración de solidos disueltos en agua TDS Medidor de TDS, con el cual podremos medir la concentración total de sólidos disueltos en el agua. Características: Rango: 0~9990 ppm Resolución: 0~999 ppm (1 ppm) / 1000~9990 ppm (10 ppm) Exactitud: ±2% Baterías: 2×1.5V LR44",
+        "precio": 4500,
+        "cantidad": 1,
+        "categoria": "Tecnologia y Herramientas"
+    },
+    {
+        "id": 39,
+        "imagen": "https://tecneclima.com.ar/1630-superlarge_default/termometro-ambientedigital-temperatura-humedad-reloj-alarma-calendario-htc-1.jpg",
+        "titulo": "Termohigrometro",
+        "descripcion": "Se puede medir la temperatura y humedad delsitio donde coloca este medidor.Características:Temperatura de visualización, humedad y tiempo simultáneamente Valor de medición máx. Sistema de Visualización de 12 horas/24 horas seleccionable Unidad f seleccionable Función de alarma de hora integral Función de alarma Función de reloj y calendario (mes y fecha) Colgante o colgante de pared Especificación Rango de temperatura: -50 ~ + 70 °C (-58 ~ + 158 ° F) Rango de humedad: 20% ~ 99% Rh Resolución: Temperatura: 0.1 °C (0.1 ° F) Humedad: 1% Rh Precisión:Temperatura: ± 1 °C (1.8 ° F)Humedad: ± 5 Rh (40% ~ 80%) Fuente de alimentación: 1.5 V (tamaño AAA) x 1 Dimensiones del producto: 100x100x15mm Peso: appros.125g Condiciones de almacenamiento: -20 °C ~ 60 °C, 20 ~ 80% Rh",
+        "precio": 11000,
+        "cantidad": 2,
+        "categoria": "Tecnologia y Herramientas"
+    },
+    {
+        "id": 93,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/2620-600x600.jpg",
+        "titulo": "estacion metereologica digital zurich",
+        "descripcion": "Características de humedad relativa Termografo Función SNOOZE Reloj Alarma Calendario Especificaciones: Nivel de confort. Memoria de temperaturas máximas y mínimas. Gráfico de temperaturas registradas en las últimas 12 horas. Pronóstico meteorológico con 5 iconos animados, que indican soleado, ligeramente nublado, nublado, lluvia y tormenta. Montaje para mesa o pared Rangos: T: 0 °C a +50 °C H: 20 % a 99 % Medidas: 135 x 80 x 20 mm Baterías: 2 AAA (No incluidas)",
+        "precio": 11400,
+        "cantidad": 1,
+        "categoria": "Tecnologia y Herramientas"
+    },
+    {
+        "id": 94,
+        "imagen": "catalogo/",
+        "titulo": "medidor tds/EC",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Tecnologia y Herramientas"
+    },
+    {
+        "id": 40,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/scrogbc1-600x600.jpg",
+        "titulo": "red tutor scrog BC",
+        "descripcion": "Red para Scrog. Marca: Buen Consejo.Puede usarse desde 60 x 60 cm., y se extiende hasta 1.20 x 1.20 mt.",
+        "precio": 4400,
+        "cantidad": 1,
+        "categoria": "Tecnologia y Herramientas"
+    },
+    {
+        "id": 41,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_941141-MLA50319368127_062022-O.webp",
+        "titulo": "guantes de nitrilo 3 pares",
+        "descripcion": "Guantes de nitrilo. No posee latex de caucho natural. Hipoalergénicos. Medidas: (ANCHO DE PALMA) S: 84 mm. M: 94 mm. L: 105 mm. XL: 113 mm. *Bolsa Reutilizable.",
+        "precio": 850,
+        "cantidad": 1,
+        "categoria": "Tecnologia y Herramientas"
+    },
+    {
+        "id": 42,
+        "imagen": "catalogo/",
+        "titulo": "red scrog",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Tecnologia y Herramientas"
+    },
+    {
+        "id": 43,
+        "imagen": "catalogo/",
+        "titulo": "top crop tripack auto",
+        "descripcion": "TriPack Auto de Top Crop contiene todo lo que necesitas para el cuidado de tus plantas autoflorecientes, desde el crecimiento hasta la floración, con un remate final de voluminosos cogollos repletos de resina. CONTIENE: Top Auto 250ml. de Top Crop es un fertilizante líquido rico en NPK (Nitrógeno, Fósforo y Potasio) especialmente formulado para plantas autoflorecientes. Un solo producto para cubrir los nutrientes necesarios durante la fase de crecimiento y floración de tu planta. Top Bud 100ml. de Top Crop es el fertilizante que necesitas para un remate apoteósico de la fase de floración. Su formulación especial enriquecida con fósforo y potasio, junto con baja concentración de nitrógeno potencia el engorde de tus cogollos, sin renunciar a su aroma y sabor. Top Candy 250ml. de Top Crop es un fertilizante 100% orgánico que aumenta el peso y volumen de tus cogollos e incrementa la cantidad de resina, potenciando su aroma y sabor. Top Candy está formulado a base de extractos naturales de plantas y rico en azúcares e hidratos de carbono. El alimento que tus plantas necesitan para obtener mayor rendimiento en tus cosechas. ",
+        "precio": 17500,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 45,
+        "imagen": "catalogo/",
+        "titulo": "top crop bud 100ml",
+        "descripcion": "Es un abono diseñado para proporcionar a nuestras plantas un final perfecto en la fase de floración. Es un estimulador enriquecido con fósforo y potasio, dos elementos imprescindibles para potenciar el engorde de los cogollos en la floración. Su baja concentración de nitrógeno y su gran contenido en aminoácidos mejoran considerablemente la constitución de la planta, aumentando de forma espectacular la producción del cultivo. Durante la fase de floración el fósforo tiene un papel fundamental en el metabolismo de las plantas y en la transmisión de energía. Este elemento macronutriente durante esta fase tan importante para la planta se encarga entre otras cosas de reforzar la creación de células en las flores. Mientras que el potasio, otro elemento macronutriente se encargara de aspectos fundamentales y vitales para la planta, como el transporte del agua y de nutrientes y aumentara la calidad y la resistencia de nuestro cultivo, además de producir azúcares que se encargaran de endulzar los cogollos para conseguir una cosecha de un sabor exquisito. Utilizando el este abono en la última fase de la floración combinado con Top Bloom aportamos a nuestro cultivo de marihuana el extra de fósforo y potasio que necesita para aumentar el volumen y el peso de los cogollos, sacando el máximo partido a nuestras cosechas. Es un abono 100% orgánico por lo que es perfecto para utilizarlo en agricultura ecológica tanto en interior como en exterior. Modo de uso : Agitar bien el envase antes de utilizarlo Aplicar una dosis de 0.5 a 1 ml por litro de agua de riego una vez a la semana durante la fase final de la floración Beneficios: Aporte extra de fósforo y potasio Funciona como estimulador de floración Mejoramos la estructura de la planta. Aumenta el tamaño y el peso de los cogollos. Conseguimos plantas de marihuana más sanas y cosechas más abundantes Componentes: Nitrógeno 1.6% Fósforo 16% Potasio 18% Aminoácidos 2.2%",
+        "precio": 8300,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 46,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/AUTO250-600x600.jpg",
+        "titulo": "top crop auto 250ml",
+        "descripcion": "Top Auto de Top Crop es un abono desarrollado específicamente para plantas autoflorecientes, el cual deberemos aplicar durante todo su ciclo vital. Cuenta con una composición rica en micronutrientes, quelatos y ácidos húmicos y fúlvicos de liberación rápida, los cuales están disponibles  inmediatamente para su asimilación. Acondicionará el sustrato aportando la alimentación básica para el desarrollo de este tipo de plantas, estimulando el crecimiento de la planta durante la fase vegetativa, y la formación de cogollos grandes y densos por toda la planta. -Modo de uso: Comenzar a aplicar a partir del momento en el que las plantas comiencen a mostrar su tercer nudo, aproximadamente la 2ª o 3ª semana desde la  germinación. Diluir 2, 5ml/L de agua durante toda la fase vegetativa, alternando un riego solo con agua y otro con fertilizantes. Al inicio de la floración aumentar la dosis a 3, 5ml/L de agua, manteniendo el mismo número de aplicaciones hasta unos 15 días antes de cortar.",
+        "precio": 5400,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 47,
+        "imagen":
+        "https://bcdistribuidora.com.ar/wp-content/uploads/topbarrier250-600x600.jpg",
+        "titulo": "top barrier 250cc",
+        "descripcion": "BARRIER de TOP CROP mejora la absorción y el transporte de nutrientes a través de la planta. Refuerza las paredes celulares, y hace a las plantas más resistentes frente a plagas tanto de insectos y ácaros como fúngicas. Incrementa los niveles de clorofila, favoreciendo la fotosíntesis y contribuyendo a un mejor desarrollo de estas, así como la absorción del CO2 del medio, y potencia los procesos metabólicos para proporcionar unas mayores cosechas. Además el aporte adicional de potasio favorece el proceso de floración. A sus características se le suma su alta basicidad gracias al silicio, haciéndolo útil para incrementar el pH de las soluciones de nutrientes hidropónicos. No encontrarás un mejor aliado para tus plantas. USOS Y APLICACIONES Irrigación: 0, 5 ml/L de agua y verter alrededor de las raíces. Llevar a cabo el tratamiento una vez por semana. Pulverización foliar: diluir en agua templada 0, 25 ml/L. Pulverizar sobre las hojas al final del ciclo luminoso. Repetir una vez por semana cómo preventivo de plagas. OBSERVACIONES Almacenar en lugar fresco y seco. Evitar temperaturas extremas. Proteger de la luz solar. Dado su carácter alcalino, evite mezclar con productos de pH ácido a fin de no provocar reacciones no deseadas. COMPOSICIÓN Silicato de Potasio. Silicio(SiO2): 9, 20 % p/v. Potasio (K2O): 4, 63 % p/v. pH: 11,67.",
+        "precio": 4300,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 48,
+        "imagen":
+        "https://bcdistribuidora.com.ar/wp-content/uploads/topcandy250-600x600.jpg",
+        "titulo": "top crop candy 250ml",
+        "descripcion": "Top Candy de Top Crop es un producto a base de extractos naturales de plantas, rico en hidratos de carbono; su principal función es el aumento de peso y volumen de las flores. Así mismo debido a su composición mejora notablemente el olor y el sabor de las cosechas. Top Candy es un producto 100% natural y orgánico por lo que puede emplearse hasta el último día del ciclo. Uso y aplicaciones: Diluir a razón de: 2ml/L de agua. A partir de la 3ª ó 4ª semana de floración.",
+        "precio": 3700,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 49,
+        "imagen":
+        "https://bcdistribuidora.com.ar/wp-content/uploads/topvege250-600x600.jpg",
+        "titulo": "top crop vege 250ml",
+        "descripcion": "Es un fertilizante líquido completo rico en ácidos húmicos y fúlvicos así como en macro y micronutrientes solubles en agua. Promueve el crecimiento, refuerza las defensas frente a enfermedades y estrés, regula el balance del pH del suelo e Incrementa el contenido en clorofila mejorando la eficiencia fotosintética de las plantas. Mejora la estructura del suelo así como su capacidad de retención de humedad y fertilizantes. USOS Y APLICACIONES Diluir a razón de 2-4ml/ 1 L de agua una vez por semana. OBSERVACIONES Almacenar en lugar fresco y seco. Evitar temperaturas extremas. Proteger de la luz solar Agitar bien el producto antes de su uso. No ingerir. P270 No comer, beber ni fumar durante su utilización. P102 Mantener fuera del alcance de los niños. Riquezas garantizadas P/P Ácidos Húmicos 3, 7% Ácidos Fúlvicos 1, 8% Nitrógeno, N 8 7% Fósforo, P2O5 4, 4% Potasio, K2O 7, 7 % Magnesio, MgO 1, 0 % -pH 7.8 -Rápida absorción. -Apto para jardinería doméstica.",
+        "precio": 3700,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 50,
+        "imagen":
+        "https://bcdistribuidora.com.ar/wp-content/uploads/SHANTI100-600x600.jpg",
+        "titulo": "Namaste shanti 100ml",
+        "descripcion": "Es un Bioestimulante 100% orgánica a base de Algas Marinas, que aportan: Aminoácidos, Vitaminas, Minerales y Hormonas Fitorreguladores del crecimiento. Estimula el desarrollo radicular y la generación de Biomasa. Ideal para usar a mediados del ciclo de desarrollo vegetativo y primeras semanas de floración. ANALISIS NUTRICIONAL Nitrógeno (N) 0.5% Fósforo (P) 0.1% Potasio (K) 3.5% Calcio (Ca) 0.4% Materia Orgánica 15% *Además contiene trazas de microelementos. COMPOSICION Algas Ascophyllum Nodossum Algas macrocystis pyrifera Algas undaria pinnatifida Aminoácidos Origen Vegetal INSTRUCCIONES Diluir 3 a 6 ml por litro de agua, 3 aplicaciones en todo el ciclo separadas cada 15 días, la primer aplicación puede ser 15 días antes de empezar o inducir la floración. Ajustar el Ph a niveles neutros o levemente ácidos (entre 6 y 7). La segunda aplicación se puede hacer de manera foliar.",
+        "precio": 5000,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 51,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/clonaste-600x600.jpg",
+        "titulo": "clonaste 30cc / 25gr",
+        "descripcion": "CLONASTE NAMASTE 30CC Es un producto pensado y diseñado para hacer más fácil y eficiente el proceso de Clonación o esquejado de plantas. Elaborado en forma de gel, para que sea más fácil su aplicación. Contiene distintas hormonas y reguladores de crecimiento. También aporta aminoácidos, vitaminas y nutrientes, para estimular la formación de nuevas raíces y de materia vegetal. MODO DE USO Dependiendo la cantidad de esquejes y el tamaño de los mismos. Colocamos en un recipiente la cantidad que vamos a utilizar. Luego cerramos el ´producto para mejor conservación. Previamente tenga los esquejes ya cortados. Recomendamos dejar hidratado previamente de 12 a 24 hs en agua los gajos y hacer un corte a 45° en la base del tallo. Cubrir el tallo con 1 cm del producto durante 10 segundos. Luego introducir el esqueje en el sustrato que se vaya a utilizar (jiffys, turba, arena, perlita, etc) Para lograr mejores resultados los esquejes tienen que estar unos 7 a 10 días en condiciones constantes de humedad y temperatura.",
+        "precio": 4700,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 52,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/lixi-600x600.jpg",
+        "titulo": "lixi 2lt",
+        "descripcion": "Lixi organiclife, el producto estrella de nuestra linea. Es un abono fabricado por lombrices rojas californias, su dieta principal son bostas de caballo, vaca, cabra, gallina , conejo todas ellas con su tiempo de compostado óptimo para eliminar acidez y todo efecto no deseado , frutas de pulpa ricas en carbohidratos y azucares .( la dieta de los animales de corral seleccionados es totalmente vegetariana ) Inoculado con hongos beneficiosos . Trabajo de excelencia para brindarles la calidad que cada uno de ustedes merecen , Lixi no sobrefertiza ya que esta 100 % procesado listo para ser asimilado, siendo así de rápida asimilación.",
+        "precio": 3300,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 53,
+        "imagen":
+        "https://bcdistribuidora.com.ar/wp-content/uploads/florabooster2lt-600x600.jpg",
+        "titulo": "floria booster 2lt",
+        "descripcion": "FLORA BOOSTER NAMASTE 2LT Mayor cantidad de flores, con mayor cantidad de resina, flores más compactas y de mayor peso final. Se puede mejorar la producción final hasta en un 20%. INSTRUCCIONES: Usar desde la 4° semana de aparecidas las primeras pre flores. Una vez por semana con un máximo de 4 aplicaciones en total, dejando de usar el producto al menos 15 días antes del corte. Mezclar 1/2 tapa del producto (de 2 a 3ml) por cada 1 litro de agua. Para hidroponía es recomendado ajustar el Ph entre 5.5 y 6.5 y una EC inicial de 1.4 hasta 1.7.",
+        "precio": 19500,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 54,
+        "imagen": "catalogo/",
+        "titulo": "Budha juice 1lt",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 55,
+        "imagen": "catalogo/",
+        "titulo": "azteca miracle 250ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 56,
+        "imagen": "catalogo/",
+        "titulo": "super honey 500ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 57,
+        "imagen": "https://bcdistribuidora.com.ar/wp-content/uploads/cultivatemelaza250-600x600.jpg",
+        "titulo": "melaza cultivate 250ml",
+        "descripcion": "Es una miel oscura que se obtiene durante el proceso de la producción de la caña de azúcar. Activa y alimenta los microorganismos existentes en el sustrato. Aumenta la producción de resina. Mejora aroma, sabor y producción de tricomas. Diluir una cucharada sopera en un litro de agua. Regar la preparación de manera uniforme en la totalidad del sustrato. ",
+        "precio": 3000,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 58,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/photoroom_20220604_10292211-a828300219684cfcb816543541675121-1024-1024.webp",
+        "titulo": "black rooster 300ml",
+        "descripcion": "Fertilizante de floración Fertilizante de floración desarrollado para maximizar rendimientos. Estimula la proliferación de flores, así como la acumulación de materia seca en ellas. Hecho a base de sulfato de potasio, fosfato monopotásico y ácidos húmicos y fúlvicos. El PK Black Rooster es un súperalimento que permite obtener tanto flores de alta calidad como frutos vitales, sabrosos y coloridos, aumentando su peso y volumen PK 13-14",
+        "precio": 4000,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 59,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/photoroom_20220604_10275811-1ff1671c1242d8da5116543542665739-640-0.webp",
+        "titulo": "alga mater 300ml",
+        "descripcion":"Alga Mater: Fertilizante foliar Alga Mater es un fertilizante foliar a base de algas que cumple la función de bioestimulante de crecimiento. El producto surge para cubrir todos los aspectos nutricionales del cultivo tanto en las primeras etapas, como en pleno crecimiento vegetativo e inicios de floración. Aumenta la producción de flores y frutos más compactos y uniformes. Provee protección frente a diferentes tipos de estrés. Este biofertilizante posee carbohidratos, nutrientes minerales, hormonas vegetales, aminoácidos y vitaminas que trabajan como promotores del crecimiento equilibrado.",
+        "precio": 8000,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 60,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/photoroom_20220604_1028142-ed5588cef5555c806d16543542761629-640-0.webp",
+        "titulo": "bloom starter 300ml",
+        "descripcion": "Inductor de floración Bloom Starter es un fertilizante de floración temprana hecho a base de fosfito potásico combinado con extracto de algas (Ecklonia máxima). Aporta los nutrientes necesarios para iniciar una correcta floración. Confiere elementos tales como fitohormonas, vitaminas y aminoácidos, que actúan promoviendo procesos biológicos con mayor facilidad. Todos estos componentes están formulados para darle a la planta los nutrientes necesarios para todo el ciclo",
+        "precio": 8000,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 61,
+        "imagen": "catalogo/",
+        "titulo": "vital zinc 100ml",
+        "descripcion": "Biopotenciador de semillas Nutrición Biomineral Es un suplemento nutricional para la etapa inicial de enraizamiento, cuando el microelemento zinc juega un rol importante en el crecimiento de raíces sanas y abundantes. Mejora notablemente el proceso de crecimiento de la planta. Facilita y potencia la germinación de la semilla, provee el alimento necesario para la primer etapa de vegetativo.",
+        "precio": 2000,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 62,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/photoroom_20220604_10275821-1ff1671c1242d8da5116543542660776-640-0.webp",
+        "titulo": "alga mater 100ml pangea",
+        "descripcion": "Fertilizante foliar Alga Mater es un fertilizante foliar a base de algas que cumple la función de bioestimulante de crecimiento. El producto surge para cubrir todos los aspectos nutricionales del cultivo tanto en las primeras etapas, como en pleno crecimiento vegetativo e inicios de floración. Aumenta la producción de flores y frutos más compactos y uniformes. Provee protección frente a diferentes tipos de estrés. Este biofertilizante posee carbohidratos, nutrientes minerales, hormonas vegetales, aminoácidos y vitaminas que trabajan como promotores del crecimiento equilibrado.",
+        "precio": 3600,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 63,
+        "imagen":"https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/photoroom_20220604_10281411-ed5588cef5555c806d16543542721422-640-0.webp",
+        "titulo": "bloom starter 100ml pangea",
+        "descripcion": "Inductor de floración Bloom Starter es un fertilizante de floración temprana hecho a base de fosfito potásico combinado con extracto de algas (Ecklonia máxima). Aporta los nutrientes necesarios para iniciar una correcta floración. Confiere elementos tales como fitohormonas, vitaminas y aminoácidos, que actúan promoviendo procesos biológicos con mayor facilidad. Todos estos componentes están formulados para darle a la planta los nutrientes necesarios para todo el ciclo.",
+        "precio": 3000,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 64,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/photoroom_20220604_10292221-a828300219684cfcb816543541708868-640-0.webp",
+        "titulo": "black rooster 100ml",
+        "descripcion": "Fertilizante de floración Fertilizante de floración desarrollado para maximizar rendimientos. Estimula la proliferación de flores, así como la acumulación de materia seca en ellas. Hecho a base de sulfato de potasio, fosfato monopotásico y ácidos húmicos y fúlvicos. El PK Black Rooster es un súperalimento que permite obtener tanto flores de alta calidad como frutos vitales, sabrosos y coloridos, aumentando su peso y volumen PK 13-14 ",
+        "precio": 2300,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 65,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/n-grupal-1288x153611-06f5e0d7964854c81416085710002857-480-0.jpg",
+        "titulo": "tree mix N 200ml",
+        "descripcion": "SOBRE EL PRODUCTO Complemento de nutrición bíomineral para etapa vegetativa, compuesto por Nitrógeno, Calcio y ácidos húmicos. Producto ideal para cultivos Led, por su aporte de Calcio. Es el complemento ideal ante el uso de bioestimulantes, a fin de nutrir a la planta para que pueda crecer con vigorosidad. CARACTERÍSTICAS PRINCIPALES ● Ayuda a incrementar el tamaño de la planta y por consecuencia, su producción. ● Produce desarrollo de células vegetales aportando al crecimiento general de la planta (nuevos brotes, hojas, ramas). ● Ayuda a la degradación de la materia orgánica para la asimilación de nutrientes. ● Aporta un saludable color verde, haciendo que la clorofila capte más fotones. ● El producto contiene un aporte de calcio (prácticamente inexistente de manera biológica). ● Funciona como puente en la absorción de nutrientes y es vital para el desarrollo radicular USO GENERAL ● Diluir 4ml por litro de agua. Interior en maceta: Solo una aplicación. Repetir en caso de ser necesario. Exterior en suelo: solo dos aplicaciones en total, cada 15 días aproximadamente. ● Durante la etapa vegetativa: En cultivos de ciclo corto (indoor) se recomienda en el día 7 y 21 de vida o cada 15 días. En exterior: En las primeras semanas de vida y luego durante pre floración. FUNCIONES PRINCIPALES ● Como corrector ante carencias: cada vez que se presente carencia de nitrógeno Esperar al menos 7/15 días entre aplicaciones. ● Como preventivo de carencias: en caso de no tener un sustrato bien nutrido.",
+        "precio": 2500,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 66,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/a-grupal-1-scaled11-d185579cd581af840316085853020103-480-0.jpg",
+        "titulo": "tree mix A 200ml",
+        "descripcion": "Bioestimulante 100% orgánico SOBRE EL PRODUCTO Compuesto de peptidos biológicos bioactivos de rápida asimilación. Potencia la absorción de nutrientes, garantizando mejor calidad en los resultados del cultivo. Su uso foliar genera gran frondosidad. Mejora la actividad fotosintética de la planta, ayudando a generar mayor desarrollo. Potencia la permeabilidad celular, la absorción de agua y la traslación de nutrientes. Producto orgánico CARACTERÍSTICAS PRINCIPALES Gracias al incremento en la velocidad del crecimiento, se producen mejoras de rendimiento. A las 24/48hs de aplicado el producto, notarás increibles resultados. ● Equilibra el metabolismo. ● Rapida asimilación, acción inmediata. ● Aumenta el poder de energía germinativa. ● Desarrollo temprano de plántulas. ● Los fijadores como inoculantes microbianos son capaces de reestablecer el equilibrio microbiológico del suelo, mejorando sus condiciones físico-químicas. ● Consume los exudados de raíces, hojas, flores y frutos, evitando la propagación de organismos patógenos y desarrollo de enfermedades. ● Reduce el impacto del estrés abiótico. ● Disminuye la cantidad de abortos florales regulando procesos osmoticos. ● Contiene microelementos que aumentan el peso y sabor de las flores. ● Acorta la distancia internodal. ● Aumenta la concentración de clorofila en el tejido USO GENERAL Dilución en agua Foliar: 2ml por litro Radicular: 2/4ml por litro. Se recomienda intercalar aplicaciones por riego y vía foliar de manera semanal. Aplicar desde la 3er semana de vida o a partir del 4to nudo. Ejemplo: Semana 1: aplicación en riego Semana 2: aplicación foliar Semana 3: aplicación en riego Semana 4: aplicación foliar Se recomienda su aplicación entre las etapas pre floración y floración. PARA GERMINAR SEMILLAS Actúa ablandando las capas exteriores, permitiendo una rápida, sana y fácil germinación. Incluso impulsa y facilita en semillas que no se encuentren en condiciones óptimas. De esta manera, aumenta el poder germinativo de la semilla y se estimula el desarrollo de la raíz pivonte. Dosificación Diluir 1ml en 10ml de agua. Utilizar en el agua destinada a la germinación, ya sean jiffys, servilletas o sustrato Tip: con el agua restante podes hacer una aplicación foliar o radicular a cualquier otra planta (e incluso pasto) para poder aprovechar el producto y evitar desperdicios. Aplicación inicial y mantenimiento general USO ALTERNATIVO Como potenciador de absorción de nutrientes de otros productos Diluir al 10% junto a cualquier otro producto a combinar. De esta manera, podrá mejorar la absorción del mismo.",
+        "precio": 2700,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 67,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/n-grupal-1288x153611-06f5e0d7964854c81416085710002857-640-0.webp",
+        "titulo": "tree mix N 45ml",
+        "descripcion": "SOBRE EL PRODUCTO Complemento de nutrición bíomineral para etapa vegetativa, compuesto por Nitrógeno, Calcio y ácidos húmicos. Producto ideal para cultivos Led, por su aporte de Calcio. Es el complemento ideal ante el uso de bioestimulantes, a fin de nutrir a la planta para que pueda crecer con vigorosidad. CARACTERÍSTICAS PRINCIPALES ● Ayuda a incrementar el tamaño de la planta y por consecuencia, su producción. ● Produce desarrollo de células vegetales aportando al crecimiento general de la planta (nuevos brotes, hojas, ramas). ● Ayuda a la degradación de la materia orgánica para la asimilación de nutrientes. ● Aporta un saludable color verde, haciendo que la clorofila capte más fotones. ● El producto contiene un aporte de calcio (prácticamente inexistente de manera biológica). ● Funciona como puente en la absorción de nutrientes y es vital para el desarrollo radicular. USO GENERAL ● Diluir 4ml por litro de agua. Interior en maceta: Solo una aplicación. Repetir en caso de ser necesario. Exterior en suelo: solo dos aplicaciones en total, cada 15 días aproximadamente. ● Durante la etapa vegetativa: En cultivos de ciclo corto (indoor) se recomienda en el día 7 y 21 de vida o cada 15 días. En exterior: En las primeras semanas de vida y luego durante pre floración. FUNCIONES PRINCIPALES ● Como corrector ante carencias: cada vez que se presente carencia de nitrógeno Esperar al menos 7/15 días entre aplicaciones. ● Como preventivo de carencias: en caso de no tener un sustrato bien nutrido.",
+        "precio": 1000,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 68,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/a-grupal-1-scaled1-d185579cd581af840316085852589103-640-0.webp",
+        "titulo": "tree mix A 45ml",
+        "descripcion": "Bioestimulante 100% orgánico SOBRE EL PRODUCTO Compuesto de peptidos biológicos bioactivos de rápida asimilación. Potencia la absorción de nutrientes, garantizando mejor calidad en los resultados del cultivo. Su uso foliar genera gran frondosidad. Mejora la actividad fotosintética de la planta, ayudando a generar mayor desarrollo. Potencia la permeabilidad celular, la absorción de agua y la traslación de nutrientes. Producto orgánico CARACTERÍSTICAS PRINCIPALES Gracias al incremento en la velocidad del crecimiento, se producen mejoras de rendimiento. A las 24/48hs de aplicado el producto, notarás increibles resultados. ● Equilibra el metabolismo. ● Rapida asimilación, acción inmediata. ● Aumenta el poder de energía germinativa. ● Desarrollo temprano de plántulas. ● Los fijadores como inoculantes microbianos son capaces de reestablecer el equilibrio microbiológico del suelo, mejorando sus condiciones físico-químicas. ● Consume los exudados de raíces, hojas, flores y frutos, evitando la propagación de organismos patógenos y desarrollo de enfermedades. ● Reduce el impacto del estrés abiótico. ● Disminuye la cantidad de abortos florales regulando procesos osmoticos. ● Contiene microelementos que aumentan el peso y sabor de las flores. ● Acorta la distancia internodal. ● Aumenta la concentración de clorofila en el tejido USO GENERAL Dilución en agua Foliar: 2ml por litro Radicular: 2/4ml por litro. Se recomienda intercalar aplicaciones por riego y vía foliar de manera semanal. Aplicar desde la 3er semana de vida o a partir del 4to nudo. Ejemplo: Semana 1: aplicación en riego Semana 2: aplicación foliar Semana 3: aplicación en riego Semana 4: aplicación foliar Se recomienda su aplicación entre las etapas pre floración y floración. PARA GERMINAR SEMILLAS Actúa ablandando las capas exteriores, permitiendo una rápida, sana y fácil germinación. Incluso impulsa y facilita en semillas que no se encuentren en condiciones óptimas. De esta manera, aumenta el poder germinativo de la semilla y se estimula el desarrollo de la raíz pivonte. Dosificación Diluir 1ml en 10ml de agua. Utilizar en el agua destinada a la germinación, ya sean jiffys, servilletas o sustrato Tip: con el agua restante podes hacer una aplicación foliar o radicular a cualquier otra planta (e incluso pasto) para poder aprovechar el producto y evitar desperdicios. Aplicación inicial y mantenimiento general USO ALTERNATIVO Como potenciador de absorción de nutrientes de otros productos Diluir al 10% junto a cualquier otro producto a combinar. De esta manera, podrá mejorar la absorción del mismo.",
+        "precio": 1000,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 69,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/8-mico-45ml-1-scaled1-928cc4a2b7f6652fc516611738055995-640-0.webp",
+        "titulo": "tree mix mico 45ml",
+        "descripcion": "Aditivo para riego. Potenciador Radicular, bio-estimulante orgánico que promueve la formación de raíces fuertes y sanas, tallos vigorosos. Mejora la asimilación de nutrientes, mejora las condiciones del suelo, promueve la formación de micro-organismo beneficiosos para el suelo y para las plantas",
+        "precio": 1600,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 70,
+        "imagen": "catalogo/",
+        "titulo": "trichodermas 60ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 71,
+        "imagen": "catalogo/",
+        "titulo": "trichodermas 30cc",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 72,
+        "imagen":
+        "https://d2r9epyceweg5n.cloudfront.net/stores/001/467/239/products/photoroom_20220829_13151611-42ff2165bab348d7f616617899105862-640-0.webp",
+        "titulo": "power jabon potasico 100ml",
+        "descripcion": "Es insecticida - fungicida biodegradable que combate eficazmente el pulgón, la cochinilla, mosca blanca, trips, araña roja. También es efectivo contra hongos como botrytis, oidio, mildiu y tizones. Sin toxicidad para el ser humano y animales. Modo de uso: Uso preventivo: 10ml x litro de agua, aplicar 1 vez por semana. Uso insecticida: 20ml x litro de agua, aplicar 3 veces la primerz semana, luego repetir 1 vez por semana. Precauciones: En caso de contacto con la piel, enjuague con agua por 15 minutos. Si el producto es ingerido, beber abundante agua y consultar al médico. ",
+        "precio": 2000,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 73,
+        "imagen": "catalogo/",
+        "titulo": "jabon potasico 100cc",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 74,
+        "imagen": "catalogo/",
+        "titulo": "killmix 200ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 75,
+        "imagen": "catalogo/",
+        "titulo": "-ph 60ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 76,
+        "imagen": "catalogo/",
+        "titulo": "-ph 30ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 77,
+        "imagen": "catalogo/",
+        "titulo": "+ph 30ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 78,
+        "imagen": "catalogo/",
+        "titulo": "kawsay base A 500ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 79,
+        "imagen": "catalogo/",
+        "titulo": "kawsay silicio 500ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 80,
+        "imagen": "catalogo/",
+        "titulo": "kawsay base B 500ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 81,
+        "imagen": "catalogo/",
+        "titulo": "kawsay vege 250ml",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 82,
+        "imagen": "catalogo/",
+        "titulo": "maceta geotextil 15lt",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 5,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 83,
+        "imagen": "catalogo/",
+        "titulo": "maceta geotextil 30lt",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 3,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 84,
+        "imagen": "catalogo/",
+        "titulo": "maceta soplada 20lt",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 3,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 85,
+        "imagen": "catalogo/",
+        "titulo": "maceta soplada 15lt",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 5,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 86,
+        "imagen": "catalogo/",
+        "titulo": "sustrato princes growing 20lt",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 5,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 87,
+        "imagen": "catalogo/",
+        "titulo": "sustrato princes growing 80lt",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 88,
+        "imagen": "catalogo/",
+        "titulo": "sustrato autofloreciente 25lt",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 89,
+        "imagen": "catalogo/",
+        "titulo": "sustrato growmix multipro 80lt",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 2,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 90,
+        "imagen": "catalogo/",
+        "titulo": "perlita",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 91,
+        "imagen": "catalogo/",
+        "titulo": "vermiculita",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    },
+    {
+        "id": 92,
+        "imagen": "catalogo/",
+        "titulo": "turba",
+        "descripcion": "",
+        "precio": 1,
+        "cantidad": 1,
+        "categoria": "Sustratos y fertilizantes"
+    }
+]
